@@ -35,7 +35,7 @@ def open():
 root = Tk()
 
 root.config(bg='#87CEEB')
-root.title("轰你妹!")
+root.title("小清的发泡机")
 
 root.geometry('450x260+700+300')
 
